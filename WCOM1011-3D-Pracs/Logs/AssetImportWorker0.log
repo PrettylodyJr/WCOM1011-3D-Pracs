@@ -185,3 +185,9 @@ Received Import Request.
   path: Assets/Stone.mat
   artifactKey: Guid(8ea76faf4bb4d4da080b1a93e008b2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Stone.mat using Guid(8ea76faf4bb4d4da080b1a93e008b2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731111d7b7421c6f97a307b25fec28d1') in 0.015466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1279.507248 seconds.
+  path: Assets/Stone.mat
+  artifactKey: Guid(8ea76faf4bb4d4da080b1a93e008b2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stone.mat using Guid(8ea76faf4bb4d4da080b1a93e008b2e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c4a04f80471da1b6acdd626076930db') in 0.080215 seconds 
